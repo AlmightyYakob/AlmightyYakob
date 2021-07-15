@@ -1,5 +1,9 @@
-### Hi there 👋
+### Hi there 👋 I'm Jake
 
+I'm an R&D Engineer [@Kitware](https://github.com/Kitware), where I work on exciting open source projects. I focus on creating scalable web applications that aim to solve problems in a wide range of areas such as [Neuroscience](https://github.com/dandi), [Geoscience](https://github.com/ResonantGeoData/ResonantGeoData), [Data Analysis](https://github.com/multinet-app), [Image Anotation/Analysis](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5858615/), and more!
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlmightyYakob)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlmightyYakob&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **AlmightyYakob/AlmightyYakob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
